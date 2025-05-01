@@ -1,3 +1,9 @@
-{
-  
-}
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "com.example.deep_link_demo_flutter",
+    "package_name": "com.example.deep_link_demo_flutter",
+    "sha256_cert_fingerprints":
+    ["00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00"]
+  }
+}]
