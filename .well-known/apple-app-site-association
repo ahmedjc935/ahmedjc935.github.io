@@ -1,18 +1,25 @@
 {
   "applinks": {
-      "details": [
-           {
-             "appIDs": [ "com.jc.StackUp"],
-             "components": [
-               {
-                  "/": "/group-invitation/*",
-                  "comment": "Matches any URL with a path that starts with /buy/."
-               }
-             ]
-           }
-       ]
-   },
-   "webcredentials": {
-      "apps": [ "com.jc.StackUp" ]
-   }
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "F99WQ6MMVM.com.jc.StackUp"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+       "F99WQ6MMVM.com.jc.StackUp"
+    ]
+  }
 }
