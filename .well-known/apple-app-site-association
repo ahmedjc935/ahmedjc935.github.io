@@ -1,25 +1,11 @@
 {
   "applinks": {
-    "apps": ["F99WQ6MMVM.com.jc.StackUp"],
+    "apps": [],
     "details": [
       {
-        "appIDs": [
-          "F99WQ6MMVM.com.jc.StackUp"
-        ],
-        "paths": [
-          "*"
-        ],
-        "components": [
-          {
-            "/": "/*"
-          }
-        ]
+        "appID": "F99WQ6MMVM.com.jc.StackUp",
+        "paths": [ "/group-invitation/*" ]
       }
-    ]
-  },
-  "webcredentials": {
-    "apps": [
-       "F99WQ6MMVM.com.jc.StackUp"
     ]
   }
 }
